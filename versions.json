@@ -1,0 +1,32 @@
+[
+  {
+    "softwareName": "ExampleSoftware",
+    "version": "1.2.4",
+    "releaseDate": "2024-05-20",
+    "downloadLinks": {
+      "Windows": "https://example.com/download/version124/win",
+      "macOS": "https://example.com/download/version124/mac",
+      "Linux": "https://example.com/download/version124/linux"
+    }
+  },
+  {
+    "softwareName": "ExampleSoftware",
+    "version": "1.2.5",
+    "releaseDate": "2024-08-10",
+    "downloadLinks": {
+      "Windows": "https://example.com/download/version125/win",
+      "macOS": "https://example.com/download/version125/mac",
+      "Linux": "https://example.com/download/version125/linux"
+    }
+  },
+  {
+    "softwareName": "ExampleSoftware",
+    "version": "1.3.0",
+    "releaseDate": "2024-11-30",
+    "downloadLinks": {
+      "Windows": "https://example.com/download/version130/win",
+      "macOS": "https://example.com/download/version130/mac",
+      "Linux": "https://example.com/download/version130/linux"
+    }
+  }
+]
